@@ -5,6 +5,7 @@ This is just demo app for new developers who want to lear best practices for app
 Also it should be enough to cover almost most of the concepts that you need to learn about Jetpack compose! 🤩 .
 
 
+click on image to watch video
 [![Watch the video](https://github.com/m-jayy/Instagram-Clone/blob/master/imges/insta_home.jpg)](https://youtube.com/shorts/VbM-cPMeyFM)
 
 Following are the technologies used in app:
