@@ -1,11 +1,11 @@
 # Instagram Clone
 Instagram clone is an app build using new technologies/trends and other advanced Jetpack compose specific concepts.
 
-This is just demo app for new developers who want to lear best practices for app design & development :
-also it should be enough to cover almost most of the concepts that you need to learn about Jetpack compose! 🤩 .
+This is just demo app for new developers who want to lear best practices for app design & development
+Also it should be enough to cover almost most of the concepts that you need to learn about Jetpack compose! 🤩 .
 
 
-[![Watch the video]()](https://youtube.com/shorts/VbM-cPMeyFM)
+[![Watch the video](https://github.com/m-jayy/Instagram-Clone/blob/master/imges/insta_home.jpg)](https://youtube.com/shorts/VbM-cPMeyFM)
 
 Following are the technologies used in app:
 
